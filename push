@@ -1,0 +1,4 @@
+cd /workspaces/ot-admin-panel
+git remote add origin https://github.com/prashal/ot-admin-panel.git
+git branch -M main
+git push -u origin main
